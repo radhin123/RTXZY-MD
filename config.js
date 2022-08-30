@@ -3,17 +3,29 @@
 //Dalam file _menunya.js
 
 //『 Utama 』 //
-global.owner = ['6282xxxxxx']  // isi jika perlu
-global.mods = ['6282xxxxxx']   // isi jika perlu
-global.prems = ['6282xxxxxx']  // isi jika perlu
+global.owner = ['6282373158947']  // isi jika perlu
+
+global.mods = ['6282373158947']   // isi jika perlu
+
+global.prems = ['6282373158947']  // isi jika perlu
+
+ 
 
 //Isi dengan nama dan nomor lu//
-global.nameowner = '⫹⫺ OWNER' // isi nama kalian bebas
-global.numberowner = '6282xxxxxx' // isi nomor kalian dengan awalan seperti di contoh 
-global.instagram = 'https://instagram.com/prm2.0' // isi Instagram kalian harus link
-global.github = 'https://github.com/BOTCAHX' // gausah di isi juga gpp bro
-global.dana = '6282xxxxxx' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6282xxxxxx' // isi dengan nomor pulsa hp kalian
+
+global.nameowner = ' Radhin' // isi nama kalian bebas
+
+global.numberowner = '6282373158947' // isi nomor kalian dengan awalan seperti di contoh 
+
+global.instagram = 'https://instagram.com/radhin-al-haadi' // isi Instagram kalian harus link
+
+global.github = 'https://github.com/radhin123' // gausah di isi juga gpp bro
+
+global.dana = '6282373158947' // isi dengan nomor dana yg kamu punya 
+
+global.pulsa = '082373158947' 
+
+ // isi dengan nomor pulsa hp kalian
 global.gopay = ''
 
 //Name Bot & Grouplink//
